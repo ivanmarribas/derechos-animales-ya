@@ -2,6 +2,7 @@ backend:
   name: github
   repo: ivanmarribas/ivanmarribas.github.io
   branch: master # Branch to update (optional; defaults to master)
+  site_domain: funny-sundae-64282c.netlify.app
 
   media_folder: "src/assets" # Media files will be stored in the repo under images/uploads
   public_folder: "/assets"
