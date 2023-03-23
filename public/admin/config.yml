@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ivanmarribas/derechos-animales-ya
+  repo: ivanmarribas/ivanmarribas.github.io
   branch: master # Branch to update (optional; defaults to master)
   site_domain: funny-sundae-64282c.netlify.app
 

@@ -9,7 +9,7 @@ import { remarkReadingTime } from "./src/utils/all";
 
 export default defineConfig({
   site: "https://ivanmarribas.github.io",
-  base: "/derechos-animales-ya",
+  base: "/",
   experimental: {
     contentCollections: true,
   },
