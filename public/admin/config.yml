@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: ivanmarribas/derechos-animales-ya
-  # branch: master # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
 
   media_folder: "src/assets" # Media files will be stored in the repo under images/uploads
   public_folder: "/imagen "
