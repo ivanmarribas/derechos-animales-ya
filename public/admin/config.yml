@@ -15,8 +15,3 @@ backend:
     fields: # The fields for each document, usually in front matter
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Imagen destacada", name: "image", widget: "image"}
-      - {label: "Categorias", name: "category", widget: "select", multiple: true, options: ["veganismo"]}
-      - {label: "Contenido", name: "body", widget: "markdown"}
-      - {label: "Fecha de publicacion", name: "date", widget: "datetime"}
-      - {label: "Etiquetas", name: "tags", widget: "select", multiple: true, options: ["veganismo", "guerra"]}
-      - { label: 'Autor', name: 'author', widget: 'hidden', default: "adrian" }
