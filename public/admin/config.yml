@@ -15,9 +15,9 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Imagen destacada", name: "image", widget: "image"}
-      - {label: "Categorias", name: "category", widget: "select", multiple: true, options: ["veganismo"]}
+      - {label: "Categoría", name: "category", widget: "string", default: "veganismo"}
       - {label: "Descripción", name: "excerpt", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Contenido", name: "body", widget: "markdown"}
       - {label: "Etiquetas", name: "tags", widget: "select", multiple: true, options: ["veganismo", "guerra"]}
-      - { label: 'Autor', name: 'author', widget: 'hidden', default: "adrian" }
+      - {label: 'Autor', name: 'author', widget: 'hidden', default: "adrian" }
       - {label: "Fecha de publicación", name: "publishDate", widget: "datetime"}
