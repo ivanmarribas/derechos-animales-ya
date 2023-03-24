@@ -1,7 +1,7 @@
 ---
 title: "La Ley de Protección Animal de España no incluye a los «perros de caza»"
 excerpt: ""
-publishDate: "2023-11-18T11:39:36.050Z"
+publishDate: 2023-11-18T11:39:36.050Z
 image: "https://derechosanimalesya.org/wp-content/uploads/sites/5/2022/10/%C2%A1Derechos-Animales-ya-Manifestacion-animalista-por-la-inclusion-de-los-galgos-en-la-ley-de-proteccion-animal.webp"
 category: "veganismo"
 author: "adrian"

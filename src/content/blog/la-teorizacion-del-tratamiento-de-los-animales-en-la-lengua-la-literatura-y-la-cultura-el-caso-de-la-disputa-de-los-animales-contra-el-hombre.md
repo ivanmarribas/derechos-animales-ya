@@ -1,7 +1,7 @@
 ---
 title: "«La teorización del tratamiento de los animales en la lengua, la literatura y la cultura: El caso de La disputa de los animales contra el hombre»"
 excerpt: " "
-publishDate: "2023-11-18T12:39:36.050Z"
+publishDate: 2023-11-18T12:39:36.050Z
 image: "https://derechosanimalesya.org/wp-content/uploads/sites/5/2022/07/%C2%A1Derechos-Animales-ya-La-disputa-de-los-animales-contra-el-hombre.webp"
 category: "veganismo"
 author: "adrian"
