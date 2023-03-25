@@ -1,7 +1,7 @@
 ---
 title: "La inteligencia animal, Lloyd Morgan y el negacionismo científico"
 excerpt: " "
-publishDate: 2023-11-19T11:39:36.050Z
+publishDate: 2023-02-06T11:39:36.050Z
 image: "https://derechosanimalesya.org/wp-content/uploads/sites/5/2020/02/Fotograf%C3%ADa-de-Lloyd-Morgan.webp"
 category: "veganismo"
 author: "adrian"

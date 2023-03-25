@@ -1,7 +1,7 @@
 ---
 title: "Argumentos a favor de la esclavitud negra"
 excerpt: " "
-publishDate: 2023-12-18T11:39:36.050Z
+publishDate: 2023-02-03T11:39:36.050Z
 image: "https://derechosanimalesya.org/wp-content/uploads/sites/5/2022/06/%C2%A1Derechos-Animales-ya-Esclavitud-negra.webp"
 category: "veganismo"
 author: "adrian"

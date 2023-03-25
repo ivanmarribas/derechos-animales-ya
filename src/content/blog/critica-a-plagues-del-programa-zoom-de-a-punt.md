@@ -1,7 +1,7 @@
 ---
 title: "Crítica a «Plagues» del programa «Zoom» de À Punt"
 excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
-publishDate: 2023-12-09T16:39:36.050Z
+publishDate: 2023-03-09T16:39:36.050Z
 image: "https://derechosanimalesya.org/wp-content/uploads/sites/5/2023/02/Adrian-Lopez-Galera-Plagues-Programa-Zoom-de-A-Punt.webp"
 category: "veganismo"
 author: "adrian"

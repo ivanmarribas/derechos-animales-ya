@@ -1,7 +1,7 @@
 ---
 title: "Los animales en la guerra"
 excerpt: " "
-publishDate: 2023-11-18T11:39:36.050Z
+publishDate: 2023-02-02T11:39:36.050Z
 image: "https://derechosanimalesya.org/wp-content/uploads/sites/5/2022/09/%C2%A1Derechos-Animales-ya-Perro-explotado-en-el-ejercito.webp"
 category: "veganismo"
 author: "adrian"
