@@ -9,7 +9,7 @@ tags: [veganismo, explotación animal]
 ---
 _Lloyd Morgan - Inteligencia animal - Negacionismo científicoEl negacionismo científico respecto a la inteligencia animal sigue tomando su base en el Canon de Lloyd Morgan._
 
-- El Canon de Lloyd Morgan](https://derechosanimalesya.org/la-inteligencia-animal-lloyd-morgan-y-el-negacionismo-cientifico/#El_Canon_de_Lloyd_Morgan "El Canon de Lloyd Morgan")
+- [El Canon de Lloyd Morgan](https://derechosanimalesya.org/la-inteligencia-animal-lloyd-morgan-y-el-negacionismo-cientifico/#El_Canon_de_Lloyd_Morgan.com "El Canon de Lloyd Morgan")
 - [La inteligencia animal se desdeña](https://derechosanimalesya.org/la-inteligencia-animal-lloyd-morgan-y-el-negacionismo-cientifico/#La_inteligencia_animal_se_desdena "La inteligencia animal se desdeña")
 - [Cuando el prejuicio construye la ciencia](https://derechosanimalesya.org/la-inteligencia-animal-lloyd-morgan-y-el-negacionismo-cientifico/#Cuando_el_prejuicio_construye_la_ciencia "Cuando el prejuicio construye la ciencia")
 
