@@ -11,6 +11,12 @@ export const categories: Props[] = [
     title: "Veganismo",
     slug: "veganismo",
     color: "green",
-    description: "Veganismo",
+    description: "Artículos sobre veganismo",
+  },
+  {
+    title: "Ciencia",
+    slug: "ciencia",
+    color: "green",
+    description: "Artículos sobre ciencia",
   },
 ];

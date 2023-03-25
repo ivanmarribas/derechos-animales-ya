@@ -3,7 +3,7 @@ title: "El especismo en la veterinaria y el adoctrinamiento de los veterinarios"
 excerpt: " "
 publishDate: 2023-01-01T11:39:36.050Z
 image: "https://derechosanimalesya.org/wp-content/uploads/sites/5/2020/11/%C2%A1Derechos-Animales-ya-El-especismo-en-la-veterinaria-y-el-adoctrinamiento-de-los-veterinarios.webp"
-category: "veganismo"
+category: "ciencia"
 author: "adrian"
 tags: [veganismo, explotación animal]
 ---

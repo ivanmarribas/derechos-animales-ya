@@ -3,7 +3,7 @@ title: "El especismo en la ciencia y en las publicaciones académicas"
 excerpt: " "
 publishDate: 2023-02-03T12:39:36.050Z
 image: "https://derechosanimalesya.org/wp-content/uploads/sites/5/2019/01/Fragmento-especista-de-Eye-of-the-Crocodile.webp"
-category: "veganismo"
+category: "ciencia"
 author: "adrian"
 tags: [veganismo, explotación animal]
 ---
